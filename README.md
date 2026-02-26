@@ -7,7 +7,11 @@ Every Sigmal program is **total**, **pure**, and **deterministic** — yet expre
 
 Sigmal aims to bridge **logic** and **engineering**, offering a foundation strong enough for proofs and practical enough for everyday code.
 
+→ [Design draft (v01)](spec-draft-v01.html)
+
 ---
+
+Below are old contents:
 
 # ✨ Why Sigmal?
 
