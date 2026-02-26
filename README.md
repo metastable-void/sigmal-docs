@@ -9,6 +9,8 @@ Sigmal aims to bridge **logic** and **engineering**, offering a foundation stron
 
 → [Design draft (v01)](spec-draft-v01.html)
 
+→ [Effect system draft (v01)](effect-system-draft-v01.html)
+
 ---
 
 Below are old contents:
